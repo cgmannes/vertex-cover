@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -std=c++11 -pthread -Wall  -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ece650Project.dir/ece650Project.cpp.o CMakeFiles/ece650Project.dir/graph.cpp.o  -o ece650Project minisat/libminisat.a /usr/lib/libz.dylib 
